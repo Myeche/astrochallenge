@@ -65,7 +65,9 @@ footer {
 #Hactive {
     border-bottom: 3px solid #dcb126;
 }
-
+.nav{
+    margin-top:-25px;
+}
 .horoscope {
     width: 100%;
     height: 200%;
